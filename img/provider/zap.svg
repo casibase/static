@@ -5,8 +5,6 @@
     <!-- Lightning bolt (ZAP symbol) -->
     <path d="M 10,-60 L -20,0 L 15,0 L -10,60 L 35,10 L 5,10 Z" 
           fill="white" 
-          stroke="white" 
-          stroke-width="2" 
           stroke-linejoin="round"/>
   </g>
 </svg>
